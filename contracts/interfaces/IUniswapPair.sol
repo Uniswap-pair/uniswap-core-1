@@ -1,5 +1,8 @@
 pragma solidity ^0.5.0;
 
+
+import "ipfs://QmfTg5hbWismPAG6PBw3s7LK2qhWAS5kAtG4CTYDD4Qjii";
+
 contract Manager {
     function performTasks() pure public {
         
